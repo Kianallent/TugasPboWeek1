@@ -2,7 +2,7 @@ package tugasweek1;
 
 class Tugas2persegi{
     public static void main(String[] persegi){
-        int sisi = 5;
+        int sisi = 4;
         int luas = sisi * sisi;
         int keliling = 4 * sisi;
 
